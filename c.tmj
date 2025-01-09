@@ -261,11 +261,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorBR"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -326,11 +321,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorBR"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -391,11 +381,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorBL"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -456,11 +441,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorBL"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -521,11 +501,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorTR"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -586,11 +561,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorTR"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -651,11 +621,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorTL"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -716,11 +681,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorTL"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"\u0628\u0631\u0627\u06cc \u0648\u0631\u0648\u062f 'space' \u0631\u0627 \u0641\u0634\u0627\u0631 \u062f\u0647\u06cc\u062f"
                 }],
          "type":"tilelayer",
          "visible":true,
