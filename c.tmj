@@ -2674,6 +2674,48 @@
                 }, 
                 {
                  "height":35,
+                 "id":279,
+                 "name":"mohammadalilist",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/14hEeHMHOGCq087p-lkzXKSEX4p3-zl25SGnb4c9KpWg\/edit?gid=634347005#gid=634347005"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Server lists"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":27.3333333333333,
+                 "x":416.25,
+                 "y":634.583333333333
+                }, 
+                {
+                 "height":35,
                  "id":276,
                  "name":"s.amirhosseinlist",
                  "properties":[
@@ -3164,7 +3206,7 @@
          "y":0
         }],
  "nextlayerid":246,
- "nextobjectid":279,
+ "nextobjectid":280,
  "orientation":"orthogonal",
  "properties":[
         {
