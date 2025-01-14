@@ -433,6 +433,11 @@
                  "value":false
                 }, 
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"0440"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorTL"
