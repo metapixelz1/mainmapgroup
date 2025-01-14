@@ -2546,7 +2546,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Product lists"
+                         "value":"Content lists"
                         }, 
                         {
                          "name":"openWebsiteWidth",
