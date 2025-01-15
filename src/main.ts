@@ -10,7 +10,7 @@ console.log('Script started successfully');
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
-    if(WA.player.tags.includes("admin")) {
+    if(WA.player.tags.includes("member")) {
         WA.player.setOutlineColor(0, 119, 141);
     }
     let currentZone: string;
