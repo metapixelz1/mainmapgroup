@@ -12,7 +12,7 @@ WA.onInit().then(() => {
 
     if(WA.player.tags.includes("admin")) {
         WA.player.setOutlineColor(0, 119, 141);
-
+    }
     let currentZone: string;
     WA.room.area.onEnter('fireplacezone').subscribe (() => {
         //console.log('   uhiuiiuh        iuh iuiuh          uihuih');
