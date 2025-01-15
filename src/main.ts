@@ -10,9 +10,10 @@ console.log('Script started successfully');
 // Waiting for the API to be ready
 WA.onInit().then(() => {
 
-    if(WA.player.tags.includes("member")) {
+    if(WA.player.tags.includes("team")) {
         WA.player.setOutlineColor(0, 119, 141);
     }
+    
     let currentZone: string;
     WA.room.area.onEnter('fireplacezone').subscribe (() => {
         //console.log('   uhiuiiuh        iuh iuiuh          uihuih');
