@@ -2443,7 +2443,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=6ac6e93ebe669ffe108681865d1e01e6850f969ded121a0e403847e6a5951871@group.calendar.google.com&ctz=Asia\/Tehran"
+                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=6ac6e93ebe669ffe108681865d1e01e6850f969ded121a0e403847e6a5951871@group.calendar.google.com&ctz=Asia\/Tehran&mode=WEEK"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2611,7 +2611,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=423874b9924288b7f6f8976f018989e21b1a001cb324459184737bcb2ffd7734@group.calendar.google.com&ctz=Asia\/Tehran"
+                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=423874b9924288b7f6f8976f018989e21b1a001cb324459184737bcb2ffd7734@group.calendar.google.com&ctz=Asia\/Tehran&mode=WEEK"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2653,7 +2653,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=1288331fd912f54971b53f5ba81fa2b1523d59c12acbe9d88ac3ef50fb80ca3d@group.calendar.google.com&ctz=Asia\/Tehran"
+                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=1288331fd912f54971b53f5ba81fa2b1523d59c12acbe9d88ac3ef50fb80ca3d@group.calendar.google.com&ctz=Asia\/Tehran&mode=WEEK"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2779,7 +2779,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=f70172ab83ee75c980dd5296fb0bff6a46a5eb540e008708ca16ee7150790e03@group.calendar.google.com&ctz=Asia\/Tehran"
+                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=f70172ab83ee75c980dd5296fb0bff6a46a5eb540e008708ca16ee7150790e03@group.calendar.google.com&ctz=Asia\/Tehran&mode=WEEK"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2821,7 +2821,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/embed?src=092bba1f37ecf18ca663e944ca834b916b2b4dfe409e9e9afdd340a7e7918294%40group.calendar.google.com&ctz=Asia%2FTehran\n "
+                         "value":"https:\/\/calendar.google.com\/calendar\/embed?src=092bba1f37ecf18ca663e944ca834b916b2b4dfe409e9e9afdd340a7e7918294%40group.calendar.google.com&ctz=Asia%2FTehran&mode=WEEK "
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2863,7 +2863,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=024da279db28cdfca079bcadfb20d691903811f44ec94fb3cf2e033175e0cde5@group.calendar.google.com&amp;ctz=Asia\/Tehran"
+                         "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/embed?src=024da279db28cdfca079bcadfb20d691903811f44ec94fb3cf2e033175e0cde5@group.calendar.google.com&amp;ctz=Asia\/Tehran&mode=WEEK"
                         }, 
                         {
                          "name":"openWebsiteClosable",
