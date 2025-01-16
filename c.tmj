@@ -2646,7 +2646,7 @@
                  "y":676.666666666667
                 }, 
                 {
-                 "height":35,
+                 "height":30.3333333333334,
                  "id":269,
                  "name":"hamidrezaCal",
                  "properties":[
@@ -2684,8 +2684,8 @@
                  "type":"area",
                  "visible":true,
                  "width":26,
-                 "x":836,
-                 "y":540.333333333333
+                 "x":834.666666666667,
+                 "y":514.333333333333
                 }, 
                 {
                  "height":32.0000000000001,
@@ -2728,6 +2728,48 @@
                  "width":35.6666666666667,
                  "x":895.333333333333,
                  "y":703.333333333333
+                }, 
+                {
+                 "height":30.6666666666667,
+                 "id":284,
+                 "name":"FinancialSystemList",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1_keMf8kphakqvmu2x4aaUXvcmC9m6Y6x\/edit?gid=2071517496#gid=2071517496"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Financial System List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32.6666666666667,
+                 "x":831.666666666666,
+                 "y":479.333333333333
                 }, 
                 {
                  "height":31,
@@ -3119,7 +3161,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":284,
+ "nextobjectid":285,
  "orientation":"orthogonal",
  "properties":[
         {
