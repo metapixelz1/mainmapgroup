@@ -2053,43 +2053,6 @@
                  "y":236.74441694833
                 }, 
                 {
-                 "height":135.146125060357,
-                 "id":199,
-                 "name":"jitsiMeetingRoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press \"SPACE\""
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":318.808,
-                 "x":643.09962143892,
-                 "y":236.54451352004
-                }, 
-                {
                  "height":0,
                  "id":227,
                  "name":"doorTL",
