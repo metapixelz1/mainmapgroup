@@ -3106,33 +3106,6 @@
                  "width":0,
                  "x":608,
                  "y":832
-                }, 
-                {
-                 "height":470,
-                 "id":237,
-                 "name":"rainsound",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.7
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"rainSound.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":986,
-                 "x":-16,
-                 "y":200
                 }],
          "opacity":1,
          "type":"objectgroup",
