@@ -2984,7 +2984,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"int",
-                         "value":35
+                         "value":45
                         }],
                  "rotation":0,
                  "type":"area",
