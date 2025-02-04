@@ -2532,7 +2532,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ln3PNmzVMnaeA78NWgNPMuqtHakoSlk3cipj-yXYPz0\/edit?gid=0#gid=0"
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1DBF9el_6y8uzwTmGLgkJfvIfz9l8s1EFxU8pHtzohJ4\/edit?gid=0#gid=0"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -2552,7 +2552,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Content lists"
+                         "value":"Product Designer"
                         }, 
                         {
                          "name":"openWebsiteWidth",
