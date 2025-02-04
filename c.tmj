@@ -3034,6 +3034,48 @@
                  "width":27.3333,
                  "x":326.33335,
                  "y":705.833333333333
+                }, 
+                {
+                 "height":31,
+                 "id":287,
+                 "name":"JSlist",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1iPXUzc1F-1gD6QE_uWo4mKkkyId6uL8wBrMmPgrqjXI\/edit?usp=sharing"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"JS tutorial list"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":35.3333,
+                 "x":898.33335,
+                 "y":807.166666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3198,7 +3240,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":287,
+ "nextobjectid":288,
  "orientation":"orthogonal",
  "properties":[
         {
