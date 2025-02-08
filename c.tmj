@@ -2389,7 +2389,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"int",
-                         "value":40
+                         "value":80
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3001,7 +3001,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1DBF9el_6y8uzwTmGLgkJfvIfz9l8s1EFxU8pHtzohJ4\/edit?gid=0#gid=0"
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1PouragLC_6TUdSWugxaDgqbFBsVfzWPdYFNxff1q0Y8\/edit?gid=0#gid=0"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -3063,7 +3063,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"JS tutorial list"
+                         "value":"Education list"
                         }, 
                         {
                          "name":"openWebsiteWidth",
