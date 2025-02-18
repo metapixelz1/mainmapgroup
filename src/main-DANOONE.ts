@@ -6,6 +6,7 @@ console.log('Script started successfully');
 
 // Waiting for the API to be ready
 WA.onInit().then(() => {
+console.log("12");
 
     WA.room.onEnterLayer("zoneOffice").subscribe(() => {
         WA.room.hideLayer("Roof/roofOpenOffice");
