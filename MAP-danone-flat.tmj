@@ -5000,7 +5000,7 @@
         {
          "columns":22,
          "firstgid":91248,
-         "image":"tilesets\/floor.png",
+         "image":"tilesets\/Floor.png",
          "imageheight":512,
          "imagewidth":704,
          "margin":0,
