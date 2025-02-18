@@ -2732,7 +2732,7 @@
                  "visible":true,
                  "width":32.6666666666667,
                  "x":831.666666666666,
-                 "y":479.333333333333
+                 "y":482.333333333333
                 }, 
                 {
                  "height":31,
@@ -2814,8 +2814,8 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":60.6666666666667,
-                 "x":715.333333333333,
+                 "width":27.3333333333334,
+                 "x":739.333333333333,
                  "y":452
                 }, 
                 {
@@ -2861,7 +2861,7 @@
                  "y":286.333333333333
                 }, 
                 {
-                 "height":54.3333333333333,
+                 "height":28.3333333333333,
                  "id":272,
                  "name":"parsaCal",
                  "properties":[
@@ -3076,6 +3076,175 @@
                  "width":35.3333,
                  "x":898.33335,
                  "y":807.166666666667
+                },
+            
+                {
+                 "height":30.6667,
+                 "id":288,
+                 "name":"marketing List",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1qRIDR1nfup-wnTQkRL20aOaWH7Q4wlEZLzQfkMOZfPE\/edit?gid=0#gid=0"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"marketing List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32.6667,
+                 "x":768.333316666667,
+                 "y":447.999983333333
+                }, 
+                {
+                 "height":26.0000333333333,
+                 "id":289,
+                 "name":"marketing 2List",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1GGa7g9xO-nIBLM3S-Kf8D6iTyoB0V17o53Qxa4nQGLc\/edit?pli=1&gid=0#gid=0"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"marketing List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":30.3333666666666,
+                 "x":704.333316666667,
+                 "y":229.999983333333
+                }, 
+                {
+                 "height":26,
+                 "id":290,
+                 "name":"marketing3 List",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ilWviA658PvkKhcyYsNobJlFua43LfrkQmpTtgAA-wg\/edit?pli=1&gid=1482031669#gid=1482031669"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"marketing List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":30.3334,
+                 "x":735.166633333333,
+                 "y":229.666666666667
+                }, 
+                {
+                 "height":26,
+                 "id":291,
+                 "name":"marketing1 List",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/166fQURyc-BerE4svbjZyJ3ZwXGA_Snd7zLvUbdmX3HM\/edit?pli=1&gid=541890420#gid=541890420"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"marketing List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":30.3334,
+                 "x":668.166633333333,
+                 "y":230
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3240,7 +3409,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":288,
+ "nextobjectid":292,
  "orientation":"orthogonal",
  "properties":[
         {
