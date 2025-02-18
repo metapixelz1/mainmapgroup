@@ -6016,7 +6016,7 @@
         {
          "columns":10,
          "firstgid":45094,
-         "image":"tilesets\/Light.png",
+         "image":"tilesets\/light.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
