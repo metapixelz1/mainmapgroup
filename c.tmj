@@ -3036,6 +3036,49 @@
                  "y":705.833333333333
                 }, 
                 {
+                 "height":21.6666666666666,
+                 "id":293,
+                 "name":"parsa-seo",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1DK1jBjWqPY1T_sg4EcN2unof7zDfRmr2x-3wgxqxn_I\/edit?gid=1714034088#gid=1714034088"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"SEO list"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":27.3333,
+                 "x":102.33335,
+                 "y":478.5
+                },
+            
+                {
                  "height":31,
                  "id":287,
                  "name":"JSlist",
@@ -3076,8 +3119,7 @@
                  "width":35.3333,
                  "x":898.33335,
                  "y":807.166666666667
-                },
-            
+                }, 
                 {
                  "height":30.6667,
                  "id":288,
@@ -3409,7 +3451,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":292,
+ "nextobjectid":294,
  "orientation":"orthogonal",
  "properties":[
         {
