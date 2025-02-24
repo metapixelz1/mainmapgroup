@@ -3121,6 +3121,48 @@
                  "y":478.5
                 }, 
                 {
+                 "height":21.6666666666666,
+                 "id":295,
+                 "name":"parsa-list",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/15AFrBkoClMQozLeUdZlC0ing6x9Gu_xqfyXShKK67UM\/edit?gid=426479694#gid=426479694"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Asma SEO"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":27.3333,
+                 "x":102.33335,
+                 "y":545.833333333333
+                }, 
+                {
                  "height":31,
                  "id":287,
                  "name":"JSlist",
@@ -3493,7 +3535,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":295,
+ "nextobjectid":296,
  "orientation":"orthogonal",
  "properties":[
         {
