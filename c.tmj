@@ -2468,7 +2468,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Product lists"
+                         "value":"Product list"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2510,7 +2510,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Server lists"
+                         "value":"Server list"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2523,6 +2523,48 @@
                  "width":27.3333333333333,
                  "x":416.25,
                  "y":637.583333333333
+                }, 
+                {
+                 "height":22.5757575757577,
+                 "id":294,
+                 "name":"mohammadalilist-website-Issue",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1SFp5gBv0HTO3TGIKHWmZrIPiJrKUy5fU7HUTrdPVWMU\/edit?gid=0#gid=0"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Website Issues list"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":26.2424242424242,
+                 "x":415.280303030303,
+                 "y":702.25
                 }, 
                 {
                  "height":35,
@@ -3021,7 +3063,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Tile lists"
+                         "value":"Tile list"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -3034,7 +3076,8 @@
                  "width":27.3333,
                  "x":326.33335,
                  "y":705.833333333333
-                }, 
+                },
+            
                 {
                  "height":21.6666666666666,
                  "id":293,
@@ -3076,8 +3119,7 @@
                  "width":27.3333,
                  "x":102.33335,
                  "y":478.5
-                },
-            
+                }, 
                 {
                  "height":31,
                  "id":287,
@@ -3451,7 +3493,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":294,
+ "nextobjectid":295,
  "orientation":"orthogonal",
  "properties":[
         {
