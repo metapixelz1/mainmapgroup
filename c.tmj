@@ -2777,6 +2777,48 @@
                  "y":482.333333333333
                 }, 
                 {
+                 "height":24.6666666666667,
+                 "id":297,
+                 "name":"FinancialSystemList1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/166fQURyc-BerE4svbjZyJ3ZwXGA_Snd7zLvUbdmX3HM\/edit?gid=541890420#gid=541890420"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32.6666666666667,
+                 "x":831.333333333333,
+                 "y":547.333333333333
+                }, 
+                {
                  "height":31,
                  "id":281,
                  "name":"accessibiltylist",
@@ -3034,7 +3076,8 @@
                  "width":64,
                  "x":417.666666666667,
                  "y":858.333333333333
-                }, 
+                },
+            
                 {
                  "height":21.6666666666666,
                  "id":286,
@@ -3076,8 +3119,7 @@
                  "width":27.3333,
                  "x":326.33335,
                  "y":705.833333333333
-                },
-            
+                }, 
                 {
                  "height":21.6666666666666,
                  "id":293,
@@ -3201,8 +3243,8 @@
                  "type":"area",
                  "visible":true,
                  "width":37.5151181818183,
-                 "x":898.33335,
-                 "y":807.166666666667
+                 "x":897.666683333333,
+                 "y":785.833333333334
                 }, 
                 {
                  "height":27.9090909090909,
@@ -3244,7 +3286,7 @@
                  "visible":true,
                  "width":37.5151181818183,
                  "x":898.33335,
-                 "y":835.89393939394
+                 "y":816.560606060607
                 }, 
                 {
                  "height":30.6667,
@@ -3296,7 +3338,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1GGa7g9xO-nIBLM3S-Kf8D6iTyoB0V17o53Qxa4nQGLc\/edit?pli=1&gid=0#gid=0"
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1GGa7g9xO-nIBLM3S-Kf8D6iTyoB0V17o53Qxa4nQGLc\/edit?gid=0#gid=0"
                         }, 
                         {
                          "name":"openWebsiteClosable",
@@ -3413,6 +3455,48 @@
                  "width":30.3334,
                  "x":668.166633333333,
                  "y":230
+                }, 
+                {
+                 "height":25,
+                 "id":298,
+                 "name":"marketingA List",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ilWviA658PvkKhcyYsNobJlFua43LfrkQmpTtgAA-wg\/edit?gid=416604921#gid=416604921"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":27.8334,
+                 "x":34.666633333333,
+                 "y":230.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3577,7 +3661,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":297,
+ "nextobjectid":299,
  "orientation":"orthogonal",
  "properties":[
         {
