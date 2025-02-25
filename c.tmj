@@ -3163,7 +3163,7 @@
                  "y":545.833333333333
                 }, 
                 {
-                 "height":31,
+                 "height":27.9090909090909,
                  "id":287,
                  "name":"JSlist",
                  "properties":[
@@ -3200,9 +3200,51 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":35.3333,
+                 "width":37.5151181818183,
                  "x":898.33335,
                  "y":807.166666666667
+                }, 
+                {
+                 "height":27.9090909090909,
+                 "id":296,
+                 "name":"meetingslist",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1lDqg3HLFqCCfPYoSRqa60q2EFqOrYdkdBlOI6fPppeU\/edit?gid=0#gid=0"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Minutes List"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":37.5151181818183,
+                 "x":898.33335,
+                 "y":835.89393939394
                 }, 
                 {
                  "height":30.6667,
@@ -3535,7 +3577,7 @@
          "y":0
         }],
  "nextlayerid":249,
- "nextobjectid":296,
+ "nextobjectid":297,
  "orientation":"orthogonal",
  "properties":[
         {
